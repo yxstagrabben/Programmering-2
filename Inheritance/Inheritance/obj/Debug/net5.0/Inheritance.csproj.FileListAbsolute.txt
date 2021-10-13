@@ -1,0 +1,16 @@
+/home/anton/RiderProjects/Inheritance/Inheritance/bin/Debug/net5.0/Inheritance
+/home/anton/RiderProjects/Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/home/anton/RiderProjects/Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/home/anton/RiderProjects/Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/home/anton/RiderProjects/Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/home/anton/RiderProjects/Inheritance/Inheritance/bin/Debug/net5.0/ref/Inheritance.dll
+/home/anton/RiderProjects/Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/home/anton/RiderProjects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.csprojAssemblyReference.cache
+/home/anton/RiderProjects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/RiderProjects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/home/anton/RiderProjects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/home/anton/RiderProjects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/anton/RiderProjects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/home/anton/RiderProjects/Inheritance/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll
+/home/anton/RiderProjects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/home/anton/RiderProjects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache
