@@ -1,0 +1,16 @@
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/bin/Debug/net5.0/ScopeAndModifiers
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/bin/Debug/net5.0/ScopeAndModifiers.deps.json
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/bin/Debug/net5.0/ScopeAndModifiers.runtimeconfig.json
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/bin/Debug/net5.0/ScopeAndModifiers.runtimeconfig.dev.json
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/bin/Debug/net5.0/ScopeAndModifiers.dll
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/bin/Debug/net5.0/ref/ScopeAndModifiers.dll
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/bin/Debug/net5.0/ScopeAndModifiers.pdb
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/obj/Debug/net5.0/ScopeAndModifiers.csproj.AssemblyReference.cache
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/obj/Debug/net5.0/ScopeAndModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/obj/Debug/net5.0/ScopeAndModifiers.AssemblyInfoInputs.cache
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/obj/Debug/net5.0/ScopeAndModifiers.AssemblyInfo.cs
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/obj/Debug/net5.0/ScopeAndModifiers.csproj.CoreCompileInputs.cache
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/obj/Debug/net5.0/ScopeAndModifiers.dll
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/obj/Debug/net5.0/ref/ScopeAndModifiers.dll
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/obj/Debug/net5.0/ScopeAndModifiers.pdb
+/home/anton/RiderProjects/ScopeAndModifiers/ScopeAndModifiers/obj/Debug/net5.0/ScopeAndModifiers.genruntimeconfig.cache
