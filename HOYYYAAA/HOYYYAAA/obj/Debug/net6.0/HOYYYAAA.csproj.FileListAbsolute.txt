@@ -1,0 +1,15 @@
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/bin/Debug/net6.0/HOYYYAAA
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/bin/Debug/net6.0/HOYYYAAA.deps.json
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/bin/Debug/net6.0/HOYYYAAA.runtimeconfig.json
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/bin/Debug/net6.0/HOYYYAAA.dll
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/bin/Debug/net6.0/ref/HOYYYAAA.dll
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/bin/Debug/net6.0/HOYYYAAA.pdb
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/obj/Debug/net6.0/HOYYYAAA.csproj.AssemblyReference.cache
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/obj/Debug/net6.0/HOYYYAAA.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/obj/Debug/net6.0/HOYYYAAA.AssemblyInfoInputs.cache
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/obj/Debug/net6.0/HOYYYAAA.AssemblyInfo.cs
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/obj/Debug/net6.0/HOYYYAAA.csproj.CoreCompileInputs.cache
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/obj/Debug/net6.0/HOYYYAAA.dll
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/obj/Debug/net6.0/ref/HOYYYAAA.dll
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/obj/Debug/net6.0/HOYYYAAA.pdb
+/home/anton/RiderProjects/HOYYYAAA/HOYYYAAA/obj/Debug/net6.0/HOYYYAAA.genruntimeconfig.cache
