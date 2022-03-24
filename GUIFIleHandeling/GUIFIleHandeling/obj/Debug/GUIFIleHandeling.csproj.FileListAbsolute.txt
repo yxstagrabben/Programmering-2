@@ -1,0 +1,11 @@
+C:\Users\elev\source\repos\GUIFIleHandeling\GUIFIleHandeling\bin\Debug\GUIFIleHandeling.exe.config
+C:\Users\elev\source\repos\GUIFIleHandeling\GUIFIleHandeling\bin\Debug\GUIFIleHandeling.exe
+C:\Users\elev\source\repos\GUIFIleHandeling\GUIFIleHandeling\bin\Debug\GUIFIleHandeling.pdb
+C:\Users\elev\source\repos\GUIFIleHandeling\GUIFIleHandeling\obj\Debug\GUIFIleHandeling.csproj.AssemblyReference.cache
+C:\Users\elev\source\repos\GUIFIleHandeling\GUIFIleHandeling\obj\Debug\GUIFIleHandeling.csproj.SuggestedBindingRedirects.cache
+C:\Users\elev\source\repos\GUIFIleHandeling\GUIFIleHandeling\obj\Debug\GUIFIleHandeling.Form1.resources
+C:\Users\elev\source\repos\GUIFIleHandeling\GUIFIleHandeling\obj\Debug\GUIFIleHandeling.Properties.Resources.resources
+C:\Users\elev\source\repos\GUIFIleHandeling\GUIFIleHandeling\obj\Debug\GUIFIleHandeling.csproj.GenerateResource.cache
+C:\Users\elev\source\repos\GUIFIleHandeling\GUIFIleHandeling\obj\Debug\GUIFIleHandeling.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\GUIFIleHandeling\GUIFIleHandeling\obj\Debug\GUIFIleHandeling.exe
+C:\Users\elev\source\repos\GUIFIleHandeling\GUIFIleHandeling\obj\Debug\GUIFIleHandeling.pdb
