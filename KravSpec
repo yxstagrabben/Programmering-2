@@ -1,0 +1,18 @@
+Vatten övervakningssystem
+Beskrivning
+Systemet ska skydda mot vattenläckor i våtrum genom att känna av ifall vattennivån är icke godkänd på golvet.
+Syfte
+Hindra vattenläckor genom att informa ansvariga om ifall vatten existerar på golvet i våtrum där etablerat system inte når.
+Teknisk beskrivning
+Systemet kommer innehålla slutenheter som består av en Arduino vattensensor modul som kopplas till varsin ESP32 vilket känner av ifall det finns någon mängd vatten på golvet i ett våtrum. Slutenheterna kommer vara kopplad till en Raspberry pi som sen kopplar upp sig mot en databas. MySQL databasen kommer spara alla värden från modulerna och tider när värdena är utanför rimligt spektrum. Dessutom kommer alla som anses vara ansvariga för våtrummen sparas i databasen med hex kryptering. Om någon av sensorerna detekterar vatten på golvet kommer en notifikation skickas genom sms till alla ansvariga så dem kan åtgärda problemet. Det kommer också finnas en hemsida som kopplas till databasen där admin kan bestämma vilka som är ansvariga för respektive våtrum. Man kommer också kunna lägga till flera slutenheter. Slutenheten kommer mäta var tjugonde sekund och om den detekterar ett värde som inte tillåts så måste den få otillåtna värden under en hel minut för att den ska notifiera ansvariga. Detta är för att minimera antalet felaktiga notifieringar 
+HW
+Hårdvara som krävs per slutenhet är en ESP32, Arduino vattensensor och strömkälla. Sen krävs servern vilket består av en Raspberry pi.
+SW
+Visual Studio Code kommer användas med tillägget platformio för att kunna programmera ESP32. XAMMP kommer att användas på Raspberry pi:en för att ha hemsidan och databasen. HTML, CSS, PHP och JavaScript kommer användas till hemsidan och för att nå databasen och kontrollera ansvariga och slutenheter.
+Resurs
+Anton Tina är personen som kommer skapa systemet och tar 250kr/t.
+Projektet kommer ta 100 timmar för att skapa all kod och konstruktion.
+Resultat
+
+Möjligt tilläggs projekt där mekaniken ingriper och förhindrar vattenskadorna automatiskt. 
+Appendix
